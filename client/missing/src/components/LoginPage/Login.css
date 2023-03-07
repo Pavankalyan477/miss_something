@@ -1,0 +1,13 @@
+
+.login_form {
+    background-color: aqua;
+}
+
+.form {
+    background-color: rgb(169, 236, 216);
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap : 25px;
+}
